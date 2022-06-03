@@ -1,4 +1,4 @@
-# ADC-PLC-Example-Programs
+# ADC-PLC-Example-Program's
 Please use this repository to share programming or application examples. 
 
 Here is the process for submitting your Device Profiles, or changes to existing Profiles:
