@@ -1,4 +1,4 @@
-# ADC-PLC-Example-Program's
+#Example-Program's
 Find inspiration in what others have done with ST products. Share your projects with the community!
 
 Here is the process for submitting your program example or changes to existing programs:
