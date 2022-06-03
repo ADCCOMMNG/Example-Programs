@@ -1,5 +1,5 @@
 # ADC-PLC-Example-Program's
-Please use this repository to share programming or application examples. 
+Find inspiration in what others have done with ST products. Share your projects with the community!
 
 Here is the process for submitting your Device Profiles, or changes to existing Profiles:
 
