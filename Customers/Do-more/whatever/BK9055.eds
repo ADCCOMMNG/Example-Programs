@@ -1,0 +1,274 @@
+$ EZ-EDS Version 3.9 Generated Electronic Data Sheet
+
+[File]
+        DescText = "Beckhoff BK9055 Ethernet/IP EDS";
+        CreateDate = 09-09-2010;
+        CreateTime = 10:56:07;
+        ModDate = 07-27-2015;
+        ModTime = 15:42:58;
+        Revision = 1.3;
+        HomeURL = "http://www.beckhoff.com";
+
+[Device]
+        VendCode = 108;
+        VendName = "Beckhoff Automation GmbH & Co. KG";
+        ProdType = 12;
+        ProdTypeStr = "Communications Adapter";
+        ProdCode = 9055;
+        MajRev = 1;
+        MinRev = 2;
+        ProdName = "Beckhoff - BK9055";
+        Catalog = "BK9055";
+        Icon = "BK9055.ico";
+        IconContents =
+                "AAABAAEARigQAAEABADoBwAAFgAAACgAAABGAAAAUAAAAAEABAAAAAAAAAAA"
+                "AGAAAABgAAAAEAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAA"
+                "wMDAAICAgAAAAP8AAP8AAAD//wD/AAAA/wD/AP//AAD///8A////////////"
+                "//////////////////////////////////8A////////////////////////"
+                "//////////////////////8A////////////////////////////////////"
+                "//////////8A//////////////////////////////////////////////8A"
+                "////////////iIiIiIiIiIiIiIiIiIiIiIiIiIiIiP////8A////////////"
+                "h3h3d3d4d3d3eHd3d3h3d3d4d3d3eI////8A//////iIiIiIh3h3d3d4d3d3"
+                "eHd3d3h3d3d4d3d3eHj///8A//////h3d3d3h3h4h4h4eIeIeHiHiHh4h4h4"
+                "eIeIeHeP//8A//////h3R/d3h3h4h4h4eIeIeHiHiHh4h4h4eIeIeHd4//8A"
+                "//////h3REd3h3hyJyJ4eIeIeHiHiHh4h4h4eIeIeHd4//8A//////h3R/d3"
+                "h3h3d3d4d3d3eHd3d3h3d3d4d3d3eHd4//8A//////h3mUd3h3h3d3d4d3d3"
+                "eHd3d3h3d3d4d3d3eHd4//8A//////h3mPd3h3h4h4h4eIeIeHiHiHh4h4h4"
+                "eIeIeHd4//8A//////h3mUd3h3h4h4h4eIeIeHiHiHh4h4h4eIeIeHd4//8A"
+                "//////h3mPd3h3h0R0R4eIeIeHiHiHh4h4h4eIeIeHd4//8A//////h3mUd3"
+                "h3h3d3d4d3d3eHd3d3h3d3d4d3d3eHd4//8A//////h3l/d3h3h3d3d4d3d3"
+                "eHd3d3h3d3d4d3d3eHd4//8A//////h3mZd3h3h4h4h4eIeIeHiHiHh4h4h4"
+                "eIeIeHd4//8A//////h3d3d3h3h4h4h4eIeIeHiHiHh4h4h4eIeIeHd4//8A"
+                "//////h3d3d3h3h5l5l4eIeIeHiHiHh4h4h4eIeIeHd4//8A//////h3d3d3"
+                "h4h3d3d4d3d3eHd3d3h3d3d4d3d3eHd4//8A//////h3d3d3h3h3d3d4d3d3"
+                "eHd3d3h3d3d4d3d3eHd4//8A//////h3d3d3h4h4h4h4eIeIeHiHiHh4h4h4"
+                "eIeIeHd4//8A//////h3d3d3h3h4h4h4eIeIeHiHiHh4h4h4eIeIeHd4//8A"
+                "//////h3d3d3iIh5l0R4eIeIeHiHiHh4h4h4eIeIeHd4//8A//////h3d3d3"
+                "h3h3d3d4d3d3eHd3d3h3d3d4d3d3eHd4//8A//////h4iIh3h4h3d3d4d3d3"
+                "eHd3d3h3d3d4d3d3eHd4//8A//////h7AAh3h3h3d3d4d3d3eHd3d3h3d3d4"
+                "d3d3eHd4//8A//////hwAAh3h4h3l5d4d3d3eHd3d3h3d3d4d3d3eHd4//8A"
+                "//////hwAAh3h3h3p6d4eneneHp3p3h6d6d4eHeHeHd4//8A//////h6AAh3"
+                "h4h3l6d4d3d3eHd3d3h3d3d4d3d3eHd4//8A//////h4iIh3h3h3p6d4enen"
+                "eHp3p3h6d6d4eHeHeHd4//8A//////h3d3d3h4h3d3d4d3d3eHd3d3h3d3d4"
+                "d3d3eHd4//8A//////iIiIiIh3h3d3d4d3d3eHd3d3h3d3d4d3d3eHd4//8A"
+                "//////h4d3eHiIiIiIiIiIiIiIiIiIiIiIiIiIiIiHd4//8A//////h4d3eH"
+                "iHeHd3d3h3d3d4d3d3h3d3d3h3d3d4d4//8A//////iIiIiIh3d4d3d3eHd3"
+                "d3h3d3eHd3d3eHd3d3h4//8A//////+Hd3d3eHd3h3d3d4d3d3eHd3d4d3d3"
+                "d4d3d3eI//8A///////4iIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiI//8A"
+                "//////////////////////////////////////////////8AAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+                "AAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+
+[Device Classification]
+        Class1 = EtherNetIP;
+
+[Params]
+        Param1 =
+                0,                      $ reserved, shall equal 0
+                ,,                      $ Link Path Size, Link Path
+                0x0000,                 $ Descriptor
+                0xC8,                   $ Data Type
+                4,                      $ Data Size in bytes
+                "cycleTime",            $ name
+                "",                     $ units
+                "",                     $ help string
+                1000,500000,10000,      $ min, max, default data values
+                ,,,,                    $ mult, div, base, offset scaling
+                ,,,,                    $ mult, div, base, offset links
+                ;                       $ decimal places
+
+        Param2 =
+                0,                      $ reserved, shall equal 0
+                ,,                      $ Link Path Size, Link Path
+                0x0000,                 $ Descriptor
+                0xC7,                   $ Data Type
+                2,                      $ Data Size in bytes
+                "Data Size (T->O)",     $ name
+                "",                     $ units
+                "",                     $ help string
+                4,502,4,                $ min, max, default data values
+                ,,,,                    $ mult, div, base, offset scaling
+                ,,,,                    $ mult, div, base, offset links
+                ;                       $ decimal places
+        Param3 =
+                0,                      $ reserved, shall equal 0
+                ,,                      $ Link Path Size, Link Path
+                0x0000,                 $ Descriptor
+                0xC7,                   $ Data Type
+                2,                      $ Data Size in bytes
+                "Data Size (O->T)",     $ name
+                "",                     $ units
+                "",                     $ help string
+                4,502,4,                $ min, max, default data values
+                ,,,,                    $ mult, div, base, offset scaling
+                ,,,,                    $ mult, div, base, offset links
+                ;                       $ decimal places
+
+
+[Assembly]
+        Assem101 =
+                "IO Data (T->O)",
+                "20 04 24 65 30 03",
+                502,
+                0x0001,
+                ,,
+                32,;
+        Assem102 =
+                "IO Data (O->T)",
+                "20 04 24 66 30 03",
+                502,
+                0x0001,
+                ,,
+                32,;
+
+[Connection Manager]
+        Connection1 =
+                0x84010002,             $ 0-15    = supported transport classes
+                                        $ 16      = trigger: cyclic
+                                        $ 17      = trigger: change of state
+                                        $ 18      = trigger: application
+                                        $ 19-23   = trigger: reserved
+                                        $ 24      = transport type: listen-only
+                                        $ 25      = transport type: input-only
+                                        $ 26      = transport type: exclusive-owner
+                                        $ 27      = transport type: redundant-owner
+                                        $ 28-30   = reserved
+                                        $ 31      = Client = 0 / Server = 1
+                0x44240405,             $ 0       = O->T fixed size supported
+                                        $ 1       = O->T variable size supported
+                                        $ 2       = T->O fixed size supported
+                                        $ 3       = T->O variable size supported
+                                        $ 4-5     = O->T number of bytes per slot (obsolete)
+                                        $ 6-7     = T->O number of bytes per slot (obsolete)
+                                        $ 8-10    = O->T Real time transfer format
+                                        $ 11      = reserved
+                                        $ 12-14   = T->O Real time transfer format
+                                        $ 15      = reserved
+                                        $ 16      = O->T connection type: NULL
+                                        $ 17      = O->T connection type: MULTICAST
+                                        $ 18      = O->T connection type: POINT2POINT
+                                        $ 19      = O->T connection type: reserved
+                                        $ 20      = T->O connection type: NULL
+                                        $ 21      = T->O connection type: MULTICAST
+                                        $ 22      = T->O connection type: POINT2POINT
+                                        $ 23      = T->O connection type: reserved
+                                        $ 24      = O->T priority: LOW
+                                        $ 25      = O->T priority: HIGH
+                                        $ 26      = O->T priority: SCHEDULED
+                                        $ 27      = O->T priority: reserved
+                                        $ 28      = T->O priority: LOW
+                                        $ 29      = T->O priority: HIGH
+                                        $ 30      = T->O priority: SCHEDULED
+                                        $ 31      = T->O priority: reserved
+                Param1,Param3,Assem102, $ O->T RPI, size, format
+                Param1,Param2,Assem101, $ T->O RPI, size, format
+                ,,                      $ config #1 size, format
+                ,,                      $ config #2 size, format
+                "EO Analog + Digital  IO",    $ Connection Name
+                "",                     $ help string
+                "20 04 24 64 2C 66 2C 65";    $ Path
+        Connection2 =
+                0x82010002,             $ 0-15    = supported transport classes
+                                        $ 16      = trigger: cyclic
+                                        $ 17      = trigger: change of state
+                                        $ 18      = trigger: application
+                                        $ 19-23   = trigger: reserved
+                                        $ 24      = transport type: listen-only
+                                        $ 25      = transport type: input-only
+                                        $ 26      = transport type: exclusive-owner
+                                        $ 27      = transport type: redundant-owner
+                                        $ 28-30   = reserved
+                                        $ 31      = Client = 0 / Server = 1
+                0x44240305,             $ 0       = O->T fixed size supported
+                                        $ 1       = O->T variable size supported
+                                        $ 2       = T->O fixed size supported
+                                        $ 3       = T->O variable size supported
+                                        $ 4-5     = O->T number of bytes per slot (obsolete)
+                                        $ 6-7     = T->O number of bytes per slot (obsolete)
+                                        $ 8-10    = O->T Real time transfer format
+                                        $ 11      = reserved
+                                        $ 12-14   = T->O Real time transfer format
+                                        $ 15      = reserved
+                                        $ 16      = O->T connection type: NULL
+                                        $ 17      = O->T connection type: MULTICAST
+                                        $ 18      = O->T connection type: POINT2POINT
+                                        $ 19      = O->T connection type: reserved
+                                        $ 20      = T->O connection type: NULL
+                                        $ 21      = T->O connection type: MULTICAST
+                                        $ 22      = T->O connection type: POINT2POINT
+                                        $ 23      = T->O connection type: reserved
+                                        $ 24      = O->T priority: LOW
+                                        $ 25      = O->T priority: HIGH
+                                        $ 26      = O->T priority: SCHEDULED
+                                        $ 27      = O->T priority: reserved
+                                        $ 28      = T->O priority: LOW
+                                        $ 29      = T->O priority: HIGH
+                                        $ 30      = T->O priority: SCHEDULED
+                                        $ 31      = T->O priority: reserved
+                Param1,0,,              $ O->T RPI, size, format
+                Param1,Param2,Assem101, $ T->O RPI, size, format
+                ,,                      $ config #1 size, format
+                ,,                      $ config #2 size, format
+                "IO Analog + Digital I",$ Connection Name
+                "",                     $ help string
+                "20 04 24 64 2C C7 2C 65";    $ Path
+        Connection3 =
+                0x81010002,             $ 0-15    = supported transport classes
+                                        $ 16      = trigger: cyclic
+                                        $ 17      = trigger: change of state
+                                        $ 18      = trigger: application
+                                        $ 19-23   = trigger: reserved
+                                        $ 24      = transport type: listen-only
+                                        $ 25      = transport type: input-only
+                                        $ 26      = transport type: exclusive-owner
+                                        $ 27      = transport type: redundant-owner
+                                        $ 28-30   = reserved
+                                        $ 31      = Client = 0 / Server = 1
+                0x44240305,             $ 0       = O->T fixed size supported
+                                        $ 1       = O->T variable size supported
+                                        $ 2       = T->O fixed size supported
+                                        $ 3       = T->O variable size supported
+                                        $ 4-5     = O->T number of bytes per slot (obsolete)
+                                        $ 6-7     = T->O number of bytes per slot (obsolete)
+                                        $ 8-10    = O->T Real time transfer format
+                                        $ 11      = reserved
+                                        $ 12-14   = T->O Real time transfer format
+                                        $ 15      = reserved
+                                        $ 16      = O->T connection type: NULL
+                                        $ 17      = O->T connection type: MULTICAST
+                                        $ 18      = O->T connection type: POINT2POINT
+                                        $ 19      = O->T connection type: reserved
+                                        $ 20      = T->O connection type: NULL
+                                        $ 21      = T->O connection type: MULTICAST
+                                        $ 22      = T->O connection type: POINT2POINT
+                                        $ 23      = T->O connection type: reserved
+                                        $ 24      = O->T priority: LOW
+                                        $ 25      = O->T priority: HIGH
+                                        $ 26      = O->T priority: SCHEDULED
+                                        $ 27      = O->T priority: reserved
+                                        $ 28      = T->O priority: LOW
+                                        $ 29      = T->O priority: HIGH
+                                        $ 30      = T->O priority: SCHEDULED
+                                        $ 31      = T->O priority: reserved
+                Param1,0,,              $ O->T RPI, size, format
+                Param1,Param2,Assem101, $ T->O RPI, size, format
+                ,,                      $ config #1 size, format
+                ,,                      $ config #2 size, format
+                "LO Analog + Digital I",$ Connection Name
+                "",                     $ help string
+                "20 04 24 64 2C C6 2C 65";    $ Path
+
+[Capacity]
+        MaxCIPConnections = 8;
+        TSpec1 = TxRx, 4, 1000;
+        TSpec2 = TxRx, 500, 1000;
+
