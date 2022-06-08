@@ -17,5 +17,8 @@ Find inspiration in what others have done with Automationdirect products. Share 
 
 5.) You will now see Example Programs is selected as the current repository.  
 
+![image](https://user-images.githubusercontent.com/47575229/172682651-72307ef3-2039-4212-82c3-214066eff205.png)
+
+
 
 
