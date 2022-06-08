@@ -21,9 +21,10 @@ Find inspiration in what others have done with Automationdirect products. Share 
 6.) Next you will want to create a new project folder in the existing Customer folder.   
 &nbsp; &nbsp; a. Click on repository and then show in explorer.  
 &nbsp; &nbsp; b. Go to Customers folder -> select a product folder  
-&nbsp; &nbsp; c. If your product is not listed put project into MISC folder and admin will make and put into folder.  
-&nbsp; &nbsp; d. Right click and create a new project folder name and put all files into the folder.   
-&nbsp; &nbsp; e. Also inside project folder create a notepad file & name it readme.md. This will be used as title page. So, open the file and give as much detail about your example project.   
+![image](https://user-images.githubusercontent.com/47575229/172695588-50500ba8-d1c1-4cbb-8ba8-ca6587725f33.png)  
+
+&nbsp; &nbsp; c. Right click and create a new project folder name and put all files into the folder.   
+&nbsp; &nbsp; d. Also inside project folder create a notepad file & name it readme.md. This will be used as title page. So, open the file and give as much detail about your example project.   
 
 7.) Once all files are in project folder go to desktop app and you will see all changes in left hand column.  
 ![image](https://user-images.githubusercontent.com/47575229/172693319-76d97fbd-1b0f-4657-b815-a3f63dbdd917.png)
