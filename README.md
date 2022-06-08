@@ -16,7 +16,6 @@ Find inspiration in what others have done with Automationdirect products. Share 
 ![image](https://user-images.githubusercontent.com/47575229/172682332-74e4c7ad-5d18-45d8-aa28-c8680f91a160.png)
 
 5.) You will now see Example Programs is selected as the current repository.  
-
 ![image](https://user-images.githubusercontent.com/47575229/172682651-72307ef3-2039-4212-82c3-214066eff205.png)
 
 6.) Next you will want to create a new project folder in the existing Customer folder.   
@@ -25,6 +24,30 @@ Find inspiration in what others have done with Automationdirect products. Share 
 &nbsp; &nbsp; c. If your product is not listed put project into MISC folder and admin will make and put into folder.  
 &nbsp; &nbsp; d. Right click and create a new project folder name and put all files into the folder.   
 &nbsp; &nbsp; e. Also inside project folder create a notepad file & name it readme.md. This will be used as title page. So, open the file and give as much detail about your example project.   
+
+7.) Once all files are in project folder go to desktop app and you will see all changes in left hand column.  
+![image](https://user-images.githubusercontent.com/47575229/172693319-76d97fbd-1b0f-4657-b815-a3f63dbdd917.png)
+
+8.) Add a description & summary -> then click on “commit to main”.  
+![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)
+
+9.) Select “Push to Origin”  This will push changes up to GitHub.   
+![image](https://user-images.githubusercontent.com/47575229/172693489-f6807eab-fe2a-49d8-b70d-ba4dedc51a40.png)
+
+10.) Now select Branch -> Create a pull request   
+![image](https://user-images.githubusercontent.com/47575229/172693925-95cbabc0-3180-4aec-817b-7d0636845ee4.png)
+
+11.) This will open a comparing changes screen in GitHub. Now select “Create pull request” then “Create pull request” again.  
+![image](https://user-images.githubusercontent.com/47575229/172694007-50506db5-826c-4936-a2c1-b6e29cf95b7b.png)
+
+12.) This will trigger an email to AutomationDirect.com to look over the request.
+13.) AutomationDirect will review the ‘Pull Request’ and ‘Merge’ it into the repository if it is approved.
+14.) You will get email notification and then your project will be available on GitHub.
+![image](https://user-images.githubusercontent.com/47575229/172694145-d8899b62-272b-43c3-a150-09f1ec582baf.png)
+
+
+
+
 
 
 
