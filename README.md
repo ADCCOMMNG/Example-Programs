@@ -3,6 +3,8 @@ Find inspiration in what others have done with Automationdirect products. Share 
 
 # Steps to create customer projects
 
+Note: There might be minor differences in steps depending on your project. 
+
 1.) Install GitHub Desktop onto your PC. https://desktop.github.com/   
 2.) If already have an account sign in or create new account.  
 3.) Clone the repository:  
