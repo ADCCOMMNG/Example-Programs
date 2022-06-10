@@ -34,18 +34,23 @@ Note: There might be minor differences in steps depending on your project.
 8.) Add a description & summary -> then click on “commit to main”.  
 ![image](https://user-images.githubusercontent.com/47575229/172693468-3d455e9c-1186-4403-bdd5-91e48ef6cea8.png)
 
+**Note:** You may get pop up asking to fork the repository -> select "fork this repository:  
+![Screen Shot 2022-06-10 at 3 01 39 PM](https://user-images.githubusercontent.com/47575229/173133186-ffeffe01-09ce-47f9-ba73-a250176ff9dd.png)  
+Followed by asking how you want to use the fork -> select "To contribute to main project":  
+![Screen Shot 2022-06-10 at 3 04 29 PM](https://user-images.githubusercontent.com/47575229/173133770-db97e65d-f21d-44ca-bdc8-fe534dbec5ca.png)
+
 9.) Select “Push to Origin”  This will push changes up to GitHub.   
 ![image](https://user-images.githubusercontent.com/47575229/172693489-f6807eab-fe2a-49d8-b70d-ba4dedc51a40.png)
 
 10.) Now select Branch -> Create a pull request   
-![image](https://user-images.githubusercontent.com/47575229/172693925-95cbabc0-3180-4aec-817b-7d0636845ee4.png)
+![image](https://user-images.githubusercontent.com/47575229/172693925-95cbabc0-3180-4aec-817b-7d0636845ee4.png) 
 
 11.) This will open a comparing changes screen in GitHub. Now select “Create pull request” then “Create pull request” again.  
 ![image](https://user-images.githubusercontent.com/47575229/172694007-50506db5-826c-4936-a2c1-b6e29cf95b7b.png)
 
-12.) This will trigger an email to AutomationDirect.com to look over the request.
-13.) AutomationDirect will review the ‘Pull Request’ and ‘Merge’ it into the repository if it is approved.
-14.) You will get email notification and then your project will be available on GitHub.
+12.) This will trigger an email to AutomationDirect.com to look over the request.  
+13.) AutomationDirect will review the ‘Pull Request’ and ‘Merge’ it into the repository if it is approved.  
+14.) You will get email notification and then your project will be available on GitHub.  
 ![image](https://user-images.githubusercontent.com/47575229/172694145-d8899b62-272b-43c3-a150-09f1ec582baf.png)
 
 
