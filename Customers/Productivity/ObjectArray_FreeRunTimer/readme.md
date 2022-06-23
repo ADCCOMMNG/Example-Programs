@@ -1,0 +1,1 @@
+Rather than trying to create an array of timers to be used by an array of objects, this program uses one self-resetting simple timer and creates an array of objects that have UDS members similar to a timer (e.g., Enable, Done, Accum, Preset, etc.) that capture and store values from the single free-running timer.
